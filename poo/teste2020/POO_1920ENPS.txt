@@ -1,0 +1,17 @@
+
+Al?nea 1) ----------------------------------
+
+Livro 1 tem 4 autores
+Livro 2 tem 3 autores
+TOTAL DE PRODUTOS DO MERCADO: 0
+Descri??o de electr1 :Frigorifico:Bosch/XPTO
+AUTORES DE Livro 1: Autor 1, Autor 2, Autor 3, Autor 4, 
+TOTAL DE PRODUTOS DO MERCADO: 6
+Vendidos 100 unidades de "Livro 2". Passou a ter 350
+TOTAL DE PRODUTOS DO MERCADO: 6
+
+teste2020.Loja@448139f0
+Informa??o sobre Frigor?fico:
+null
+Informa??o sobre Telem?vel:
+null

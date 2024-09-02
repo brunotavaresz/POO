@@ -1,0 +1,5 @@
+e)FILMES FILTRADOS PARA UM SCORE>60 E GÉNERO COMEDY
+
+Movie [nome=Deliver Us From Eva, genero=comedy, rating=R, tempo=105, score=61.8]
+Movie [nome=Intolerable Cruelty, genero=comedy, rating=PG-13, tempo=100, score=67.1]
+Movie [nome=Matchstick Men, genero=comedy, rating=PG-13, tempo=116, score=68.9]

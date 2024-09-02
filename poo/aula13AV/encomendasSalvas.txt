@@ -1,0 +1,31 @@
+Package{2; 20.0; Porto; Lisboa}
+Package{1; 23.75; Longjing, China; Lome, Togo}
+Package{2; 3.28; Shenzhen, China; Manila, Philippines}
+Package{3; 28.87; Taipei, Taiwan; Bogota, Colombia}
+Package{4; 11.64; Durban, South Africa; Munich, Germany}
+Package{5; 18.43; Stockholm, Sweden; Bangkok, Thailand}
+Package{6; 1.16; Hamburg, Germany; Luanda, Angola}
+Package{7; 24.5; Montreal, Canada; Bucharest, Romania}
+Package{8; 17.81; Jakarta, Indonesia; Barcelona, Spain}
+Package{9; 10.35; Dar es Salaam, Tanzania; Athens, Greece}
+Package{10; 28.21; Oslo, Norway; Istanbul, Turkey}
+Package{11; 5.69; Dublin, Ireland; Colombo, Sri Lanka}
+Package{12; 3.11; Fukuoka, Japan; Cairo, Egypt}
+Package{13; 4.39; Amsterdam, Netherlands; Nairobi, Kenya}
+Package{14; 0.12; Stuttgart, Germany; Asuncion, Paraguay}
+Package{15; 13.62; Brisbane, Australia; Santiago, Chile}
+Package{16; 15.08; Tehran, Iran; Guadalajara, Mexico}
+Package{17; 7.39; Auckland, New Zealand; Mumbai, India}
+Package{18; 25.2; Edmonton, Canada; Hanoi, Vietnam}
+Package{19; 16.67; Rome, Italy; Johannesburg, South Africa}
+Package{20; 12.03; Perth, Australia; Casablanca, Morocco}
+Package{21; 2.09; Seoul, South Korea; Kiev, Ukraine}
+Package{22; 27.17; Helsinki, Finland; Rio de Janeiro, Brazil}
+Package{23; 21.72; Vancouver, Canada; Dhaka, Bangladesh}
+Package{24; 26.9; Calgary, Canada; Moscow, Russia}
+Package{25; 6.85; Zurich, Switzerland; Manila, Philippines}
+Package{26; 19.59; Vienna, Austria; Lima, Peru}
+Package{27; 9.53; Sydney, Australia; Belgrade, Serbia}
+Package{28; 22.23; San Francisco, USA; Osaka, Japan}
+Package{29; 14.55; Madrid, Spain; Karachi, Pakistan}
+Package{30; 0.69; Seattle, USA; Ho Chi Minh City, Vietnam}
